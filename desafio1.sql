@@ -1,1 +1,1 @@
-SELECT products FROM northwind.sq1
+SELECT products_name FROM northwind.products
